@@ -30,4 +30,29 @@ Because we can avoid overfitting with use of validation test.And with test set w
 
 
 #Question 4; What are the main preprocessing steps? Explain them in detail. Why we need to prepare our data? 
- 
+#Why we need to prepare our data? 
+In Data preparation, we load our data into a suitable place and prepare it for use in our machine learning training. 
+It is important because we can see if there are any relevant relationships between different variables you can take advantage of, 
+as well as if there are any data imbalances. It is essential to identify these outliers, duplicated values etc. Because it will affect our algorithm in a negative way.
+#What are the main preprocessing steps?
+  1. Acquire the dataset; To build and develop Machine Learning models, we must first acquire the relevant dataset. 
+ This dataset will be comprised of data gathered from multiple and disparate sources which are then combined in a proper format to form a dataset. 
+  2. Import all the crucial libraries; like NumPy, MatPlobLib, Pandas. These are very beneficial for importing, managing datasets.
+  3. Import the dataset; In this step, we need to import the dataset/s that we have gathered for the ML project at hand
+  4. Identifying and handling the missing values; 
+  We can eleminate missing values or fill them with mean or median.
+ If we dont handle missing values, we can get inaccurate values. 
+  5. Encoding the categorical data;
+  Categorical data refers to the information that has specific categories within the dataset. 
+  Machine Learning models are primarily based on mathematical equations. 
+  Thus, we can intuitively understand that keeping the categorical data in the equation will cause certain issues since we would only need numbers in the equations.
+  6. Splitting the dataset; Every dataset for Machine Learning model must be split into two separate sets – training set and test set. 
+  Usually, the dataset is split into 70:30 ratio or 80:20 ratio.
+  7. Feature scaling; Feature scaling marks the end of the data preprocessing in Machine Learning. 
+  It is a method to standardize the independent variables of a dataset within a specific range.
+  In other words, feature scaling limits the range of variables so that we can compare them on common grounds.
+  We can perform feature scaling in Machine Learning in two ways; Standardization and Normalization.
+  
+  
+  
+  
