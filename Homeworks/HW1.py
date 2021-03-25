@@ -69,7 +69,7 @@ as well as if there are any data imbalances. It is essential to identify these o
   We use histogram to analyse continuous variable. 
    If the graph is approximately bell-shaped and symmetric about the mean, we can usually assume normality.
    But we dont see this shape, so it is not normal distribution. Our ditribution is really asymmetric.
-   It is not also right skewed right or left. We can say it has a random distribution.
+   It is not also right skewed right or left. We can say it has a random distribution.It has no apparent pattern.
    We can check if there is a outlier around 0-1 petal width. Because there is a anormal value compared to others.
    
    
