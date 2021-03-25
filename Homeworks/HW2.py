@@ -1,5 +1,4 @@
-#Explain your work
+#Import boston dataset and convert it into pandas dataframe
 
-#Question 1
-for x in range(a):
-	print(a)
+
+
