@@ -56,3 +56,32 @@ as well as if there are any data imbalances. It is essential to identify these o
   
   
   
+  #Question 5;How you can explore and analyse countionus and discrete variables?
+  Discrete data involves round, concrete numbers that are determined by counting.
+  Continuous data involves complex numbers that are measured across a specific time interval.
+  A simple way to describe the difference between the two is to visualize a scatter plot graph vs. a line graph.
+  We can explore and analyse them by drawing a scatter plot and line graph. We can see more clearly by visualizing.
+  
+  
+  #Question 6; Analyse the plot given below. (What is the plot and variable type, check the distribution and make comment about how you can preproccess it.)
+  This is a  MatPlobLib histogram. 
+  Continuous variable.
+  We use histogram to analyse continuous variable. 
+   If the graph is approximately bell-shaped and symmetric about the mean, we can usually assume normality.
+   But we dont see this shape, so it is not normal distribution. Our ditribution is really asymmetric.
+   We can check if there is a outlier around 0-1 petal width. Because there is a anormal value compared to others.
+   
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
